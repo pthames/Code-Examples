@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pet()
+comment0.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Pet\r\n\ Initializes\ all\ of\ the\ pet\ strings\ to\ null.\r\n
+comment1.params=petName\ petType\ wieght\ vacDate\ lastVisit
+comment1.target=Pet(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Pet\ Constructor\r\n\ Takes\ in\ the\ values\ for\ all\ the\ pet\ fields\ and\ sets\ them\ accordingly\r\n\ \r\n\ @param\ \ \ petName,\ petType,\ wieght,\ vacDate,\ lastVisit.\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Pet\ toString\ method\r\n\ \r\n\ returns\ all\ the\ pet\ data\ after\ each\ new\ pet\ is\ created.\r\n\ \ \r\n\ @return\ str\ -\ string\ representation\ of\ all\ of\ the\ pet\ data.\r\n
+numComments=3

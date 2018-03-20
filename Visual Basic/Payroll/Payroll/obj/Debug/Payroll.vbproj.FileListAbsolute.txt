@@ -1,0 +1,22 @@
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.Resources.resources
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.vbproj.GenerateResource.Cache
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\bin\Debug\Payroll.xml
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.xml
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\pthames1\Desktop\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.vbprojResolveAssemblyReference.cache
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\bin\Debug\Payroll.xml
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.vbprojResolveAssemblyReference.cache
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.Resources.resources
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.vbproj.GenerateResource.Cache
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.xml
+C:\Users\Pthames\Desktop\Classes\Past Classes\ITCS 2231 Visual Basic\Payroll\Payroll\obj\Debug\Payroll.pdb

@@ -1,0 +1,7 @@
+Customer Name: jerry
+Phone Number: 7755775
+Entree Chosen: Lamb Chop w/ Balsamic Reduction
+Sides Chosen: None
+Dessert Chosen: None
+Total Guests: 2
+Total Price: $70

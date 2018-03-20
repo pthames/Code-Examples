@@ -1,0 +1,48 @@
+Input Record:
+	The 8 eggs were separated into 3 groups.
+Output Record:
+	The  eight  eggs were separated into  three  groups.
+
+
+Input Record:
+	5 boys and 7 girls were present.
+Output Record:
+	 five  boys and  seven  girls were present.
+
+
+Input Record:
+	He was 1 hour and 5 minutes late.
+Output Record:
+	He was  one  hour and  five  minutes late.
+
+
+Input Record:
+	She ate 3 dozen doughnuts!
+Output Record:
+	She ate  three  dozen doughnuts!
+
+
+Input Record:
+	4 dogs were chasing 3 cats.
+Output Record:
+	 four  dogs were chasing  three  cats.
+
+
+Input Record:
+	The captain said,"This is the 0 hour".
+Output Record:
+	The captain said,"This is the  zero  hour".
+
+
+Input Record:
+	I tried to call you 9 times tody; Ann tried 6 times!!
+Output Record:
+	I tried to call you  nine  times tody; Ann tried  six  times!!
+
+
+Input Record:
+	The 12 firemen worked quickly.
+Output Record:
+	The  one  two  firemen worked quickly.
+
+

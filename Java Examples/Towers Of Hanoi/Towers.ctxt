@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ p1\ p2\ p3
+comment0.target=void\ Towers(int,\ int,\ int,\ int)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getDisks()
+numComments=3

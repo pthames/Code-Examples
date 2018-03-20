@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Converter()
+comment0.text=\r\n\ This\ default\ constructor\ sets\ the\ initial\ value\ of\ the\ string\ to\ unknown.\r\n
+comment1.params=line
+comment1.target=void\ Converter(java.lang.String)
+comment1.text=\r\n\ This\ converter\ method\ performs\ all\ the\ actions\ of\ converting\ the\ sentence.\r\n\ \r\n\ @param\ \ line\ \ \ This\ string\ is\ read\ in,\ saved,\ then\ converted\ and\ saved\ as\ a\ new\ string.\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=This\ toString\ method\ sends\ back\ the\ data\ to\ be\ written\ to\ file\ and\ displayed.\r\n\ \r\n\ @\ return\ str\ \ This\ returned\ string\ is\ written\ to\ file\ and\ displayed\ on\ screen.\r\n
+numComments=3

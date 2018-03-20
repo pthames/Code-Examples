@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Client()
+comment0.text=\r\nDefault\ Constructor\ for\ objects\ of\ class\ Client\r\nThis\ constructor\ initializes\ all\ of\ the\ variables\r\nto\ null\ or\ zero.\r\n\ \r\n
+comment1.params=lastName\ firstName\ address\ clientID\ visits\ balance\ m
+comment1.target=Client(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ int)
+comment1.text=\r\n\ The\ Client\ Constructor\ takes\ in\ values\ from\ main\ for\ all\ of\ the\ fields\r\n\ and\ sets\ those\ fields\ for\ each\ incoming\ client.\r\n\ \r\n\ @param\ \ lastName,\ firstName,\ address,\ clientID,\ visits,\ balance\ ,\ m(The\ number\ of\ pets).\r\n\ \ \ \ \r\n\ \ \ \ The\ length\ of\ the\ pet\ array\ is\ set\ here.\r\n
+comment2.params=inClient
+comment2.target=boolean\ equals(Client)
+comment2.text=\r\n\ This\ equals\ method\ compares\ two\ clients\ and\ returns\ a\ boolean.\r\n\ \r\n\ @\ param\ inClient\ -the\ client\ being\ compared\ to\ this\ client.\r\n\ @\ return\ boolean\ -\ true\ if\ the\ clients\ are\ equal\ and\ false\ otherwise.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ The\ toString\ method\ returns\ a\ string\ composed\ of\ all\ the\ client's\ data\r\n\ @\ return\ str\ -\ the\ string\ of\ client\ data.\r\n
+numComments=4

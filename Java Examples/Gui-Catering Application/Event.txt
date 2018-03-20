@@ -1,0 +1,6 @@
+Customer Name: jerry terry
+Phone Number: 1515151515
+Entree Chosen: Salmon w/ Lemon Caper Sauce
+Sides Chosen: Two Sides: Salad Korn on Dakob 
+Dessert Chosen: Oreos
+Total Price: 350
